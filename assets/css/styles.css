@@ -1302,6 +1302,7 @@ img {
 
   .services__container {
     grid-template-columns: repeat(3, 238px);
+    gap: 2.5rem;
   }
 
   .portfolio__content {
